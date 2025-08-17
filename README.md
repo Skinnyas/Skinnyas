@@ -66,8 +66,7 @@ Jsem vášnivý **FullStack Developer** z České republiky, který se specializ
 
 <div align="center">
 
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=Skinnyas&repo=portfolio&theme=react&hide_border=true)](https://github.com/Skinnyas/portfolio)
-[![FiveM UI Project](https://github-readme-stats.vercel.app/api/pin/?username=Skinnyas&repo=fivem-ui&theme=react&hide_border=true)](https://github.com/Skinnyas/fivem-ui)
+[![RPK-Frakční Komandér](rpk-frakcnikomander.vercel.app)](https://github.com/Skinnyas/rpk-frakcnikomander)
 
 </div>
 
