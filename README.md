@@ -66,7 +66,7 @@ Jsem vášnivý **FullStack Developer** z České republiky, který se specializ
 
 <div align="center">
 
-[![RPK-Frakční Komandér](rpk-frakcnikomander.vercel.app)](https://github.com/Skinnyas/rpk-frakcnikomander)
+[![RPK-Frakční Komandér](https://media.discordapp.net/attachments/899348006426537994/1406788085743751321/48j0GAAAABklEQVQDALJWvlvv17Q3AAAAAElFTkSuQmCC.png?ex=68a3bd00&is=68a26b80&hm=cab65805907fbe4eb5330a9893ed086cacf2e8197decddc7774cf229abb817e4&=&format=webp&quality=lossless)](https://github.com/Skinnyas/rpk-frakcnikomander)
 
 </div>
 
