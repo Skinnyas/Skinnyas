@@ -70,28 +70,18 @@ Jsem vášnivý **FullStack Developer** z České republiky, který se specializ
 
 </div>
 
-## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Skinnyas&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌐 Connect with Me
 
 <div align="center">
   
-  [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lukaslisican.is-a.dev/cs)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luk%C3%A1%C5%A1-lisi%C4%8Dan-91374a365/)
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/skinnycigan)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukaslisican@proton.me)
   
 </div>
 
-## 💡 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Building Modern React Applications with Next.js 15](#)
-- 🎮 [Creating Immersive FiveM UI/UX Experiences](#)
-- ⚡ [TypeScript Best Practices for Scalable Applications](#)
-- 🎨 [Designing with Tailwind CSS: Tips and Tricks](#)
-<!-- BLOG-POST-LIST:END -->
 
 ## 📊 Weekly Development Breakdown
 
