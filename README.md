@@ -54,22 +54,6 @@ Jsem vášnivý **FullStack Developer** z České republiky, který se specializ
   
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Skinnyas&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-  
-</div>
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-[![RPK-Frakční Komandér](https://media.discordapp.net/attachments/899348006426537994/1406788085743751321/48j0GAAAABklEQVQDALJWvlvv17Q3AAAAAElFTkSuQmCC.png?ex=68a3bd00&is=68a26b80&hm=cab65805907fbe4eb5330a9893ed086cacf2e8197decddc7774cf229abb817e4&=&format=webp&quality=lossless)](https://github.com/Skinnyas/rpk-frakcnikomander)
-
-</div>
-
 
 ## 🌐 Connect with Me
 
