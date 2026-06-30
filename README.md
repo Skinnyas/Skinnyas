@@ -16,7 +16,7 @@ Jsem vášnivý **FullStack Developer** z České republiky, který se specializ
 - 🌱 Učím se **pokročilé React patterns** a **Next.js 15**
 - 👯 Hledám spolupráci na **open source projektech**
 - 💬 Zeptej se mě na **React, Next.js, nebo FiveM scripting**
-- 📫 Kontakt: **lukaslisican@proton.me**
+- 📫 Kontakt: **lukas.lisic@gmail.com**
 - ⚡ Fun fact: **Redesignuji FiveM UI/UX ve volném čase**
 
 ## 🛠️ Tech Stack
